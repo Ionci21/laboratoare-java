@@ -1,0 +1,22 @@
+Creați clasa Elev care este caracterizat de nume, clasa în care este (o valoare în
+mulțimea {0,1, ...,12]} și carnetul de note (ex. un dicționar care conține un
+materia și notele la materia respectivă). Validați notele elevului astfel încât
+acestea să aibă valori cuprinse între 1 și 10. Rezolvați următoarele cerințe
+(încercați să utilizați streamuri pentru a rezolva cerințele):
+    a. Implementați propria clasă/clase de excepții pentru a raporta valorile
+    inconsistente care ar putea fi introduse de utilizator în atributele clasei.
+    b. Implementați clasa Elev și verificați valorile stocate în câmpurile care
+    au restricții
+    c. Creați o listă de studenți și afișați lista
+    d. Adăugați funcții clasei elev care permit: calcularea mediei pentru un
+    elev la o materie, calcularea mediei generale și adăugarea unei note la o
+    materie.
+    e. Sortați lista de elevi pe baza mediei generale
+    f. Afișați toți elevii care au cel puțin o notă la o materie
+    g. Pentru fiecare clasă găsiți elevul cu media generală maximă, minimă
+    h. Identificați elevul/elevii care mai au nevoie de note pentru a se calcula
+    media la o materie
+    i. Pentru fiecare clasă afișați lista elevilor
+    j. Pentru fiecare clasă afișează primii 3 elevi în ordinea mediilor
+    k. Pentru o materie afișați un raport de notă (notă, numărul de elevi care au
+    obținut nota respectivă)
