@@ -1,0 +1,14 @@
+Creați clasa Produs care are următoarele atribute: nume, preț și cantitate. Adăugați clasei cel puțin
+un constructor și o metodă de afișare. Definiți clasa Container care conține un tablou (nu o listă) de
+obiecte de tip Produs și are ca atribute pe lângă tabloul de produse pe care îl conține un identificator.
+La clasa Container adăugați metode care permit adăugarea și ștergerea produselor și o metodă statică
+care modifică cantitatea de produse stocat. Rezolvați următoarele cerințe:
+    a) Creați un obiect de tip container.
+    b) Adăugați / eliminați articole dintr-un container
+    c) Definiți o metodă care identifică un articol din container după nume (numele este furnizat ca
+    argument pe linia de comandă) și modifică cantitatea respectivului produs stocat în container
+    d) Definiți o metodă care pentru un container calculează prețul total al produselor stocate în
+    acesta.
+    e) Creați un tablou de containere și afișați tabloul.
+    f) Documentați codul și generați javadoc pentru aceasta
+    g) Scrieți testele automate pentru metodele definite.

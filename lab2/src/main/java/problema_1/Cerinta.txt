@@ -1,0 +1,13 @@
+Creați clasa Actor care are următoarele atribute: prenume (privat), prenume (privat), anul nașterii
+(pachet), numele școlii de actorie la care a participat (pachet). Dacă un actor nu a frecventat o școală
+de actorie setați numele școlii cu o valoare constantă, de ex. "FARA SCOALA"
+    a) Adăugați 3 constructori la clasa Actor
+    b) Suprascrieți metoda toString () pentru a afișa obiecte de tip Actor
+    c) Creați metode set / get pentru atributele clasei Actor
+    d) Creați un tablou de obiecte de tip Actor și afișați tabloul (creați o altă clasă pentru a testa
+    funcționalitatea clasei Actor)
+    e) Definiți o metodă care numără câți actori din tablou nu au urmat o școală de actorie
+    f) Definiți o metodă care întoarce numărul de actori născuți într-un interval de timp, capetele
+    intervalului se dau ca parametrii pe linia de comandă
+    g) Adăugați comentarii la Actor și clasa de test și generați javadoc pentru aceasta
+    h) Pentru subpunctele e, f și g scrieți testele automate.
