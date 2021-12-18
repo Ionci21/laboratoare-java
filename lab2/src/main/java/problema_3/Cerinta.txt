@@ -1,0 +1,8 @@
+Definiți o clasă care modelează conceptul de număr complex și adăugați metode care să permită:
+    a) Crearea și afișarea obiectelor de tip număr complex
+    b) Calculul modulului unui număr complex,
+    c) Calculul sumei a două numere complexe
+    d) Calculul produsului a două numere complexe
+    e) Creați o clasă, Test, pentru a exemplifica metodele implementate
+    f) Documentați codul și generați javadoc pentru aceasta
+    g) Scrieți testele automate pentru metodele definite.
