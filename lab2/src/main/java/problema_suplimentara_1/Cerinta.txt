@@ -1,0 +1,10 @@
+Definiți clasa Vector (care reprezintă un vector matematic) și adăugați rezolvați următoarele
+cerințe:
+    a) Adăugați metode pentru crearea și afișarea unui obiect de tip Vector (de exemplu, v = [1,2,4])
+    b) Adăugați o metodă pentru multiplicarea vectorului cu o constantă (v * 4 = [4,8,16])
+    c) Adăugați o metodă pentru adunarea a doi vectori
+    d) Adăugarea unei metode returnează o matrice care conține valorile unice prezente în vector
+    e) Creați un tablou de obiecte de tip vector și sortați tabloul pe baza valorii medii a elementelor
+    vectorului
+    f) Adăugați docjava clasei Vector
+    g) Scrieți testele automate pentru metodele definite.
