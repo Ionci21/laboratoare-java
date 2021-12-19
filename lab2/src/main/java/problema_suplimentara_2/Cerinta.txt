@@ -1,0 +1,11 @@
+Definiți clasa Ochelari care are următoarele atribute: producător, preț și un tip (citire, soare, ...).
+Rezolvați următoarele cerințe:
+    a) Creați metode care permit construirea și afișarea obiectelor de tip ochelari
+    b) Creați un tablou de ochelari și afișați tabloul
+    c) Creați o metodă care găsește și afișează perechea de ochelari mai puțin costisitoare din tablou
+    d) Creați o metodă care să numere pentru fiecare producător distinct numărul de ochelari
+    produși de acel producător prezent în tablou
+    e) Creați o funcție care primește ca parametru un tip de ochelari și un tablou de ochelari și
+    afișează ochelarii din tablou care au acel tip
+    f) Adăugați docjava clasei Ochelari
+    h) Scrieți testele automate pentru metodele definite.
