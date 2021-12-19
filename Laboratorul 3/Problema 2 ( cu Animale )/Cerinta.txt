@@ -1,0 +1,17 @@
+Creați o clasă abstractă Animal care are următoarele atribute: vârsta, nume și tipul de mediu pe care
+îl preferă (apă, pământ, aer). Pentru atributul mediu utilizați o enumerare. Din clasa Animal derivă
+clasele Mamifer, Pasăre și Reptilă. Clasa Mamifer are ca atribut numărul de copii medii care se pot naște
+la o singură naștere; clasa Pasăre are ca atribut viteza medie de zbor; clasa Reptilă are ca atribut
+numărul de ouă pe care le depune. Din fiecare clasă derivă câteva clase concrete (de exemplu din
+Mamifer: Pisică, Câine, ...). Creați interfață Abilitate care conține următoarele metode:
+    i. boolean poateZbura ()
+    ii. boolean poateInnota ()
+    iii. boolean sePoateCatara ()
+Fiecare clasă concretă implementează metodele din interfață (de exemplu, un câine poate înota, dar
+nu poate zbura și cățăra).
+Rezolvați următoarele cerințe:
+    a) Creați un tablou de animale și afișați-l
+    b) Definiți o metodă care întoarce numărul de animale care pot zbura din tablou
+    c) Definiți o metodă care întoarce media vârstei animalelor care se pot cățăra și nu pot înota
+    d) Adăugați JavaDoc la clase
+    e) Adăugați teste unitare pentru clasele definite

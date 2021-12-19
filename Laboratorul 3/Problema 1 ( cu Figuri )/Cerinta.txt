@@ -1,0 +1,12 @@
+Creați următoarele clase:
+    - o clasă de bază abstractă numită Figura care conține:
+    - declarațiile a două metode pentru calcularea perimetrului și ariei unei figuri
+    - un câmp care stochează informațiile dacă este sau nu umplut cu o culoare
+    - două clase concrete Cerc și Dreptunghi derivate din figură
+Rezolvați următoarele cerințe:
+    a) Creați un tablou de obiecte de tip Figura și afișați tabloul
+    b) Definiți o metodă care întoarce suma ariilor dreptunghiurilor din tablou
+    c) Adăugați o clasă Trapez care moștenește clasa Figura și adăugați la tablou obiecte de tip trapez.
+    d) Definiți o metodă care elimină obiectele de tip Cerc din tablou
+    e) Adăugați JavaDoc la clase
+    f) Adăugați teste unitare pentru clasele definite
