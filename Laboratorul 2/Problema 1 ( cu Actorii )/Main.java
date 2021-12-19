@@ -8,7 +8,7 @@ import java.util.List;
 
 class Main {
 
-    static void main(String @NotNull [] args) {
+    public static void main(String @NotNull [] args) {
         List<Actor> listaActori = creareListaActori(); // d
         afisareListaActori(listaActori); // e
         nrActoriFaraScoala(listaActori); // f
