@@ -1,0 +1,16 @@
+Propuneți o ierarhie de clase pentru următoarea problemă. Să presupunem că trebuie scris un
+program care să gestioneze conturile unei bănci. Banca are o serie de tipuri diferite de conturi pe care
+banca le gestionează:
+    • Cont obișnuit - Acest cont percepe o taxă de administrare care este minimul dintre 10 RON și
+    10% din sold la sfârșitul lunii. Nu are dobândă. Există o penalizare de 10 RON dacă soldul scade
+    sub un minim de 500 RON.
+    • Cont cu dobândă - Acest cont percepe o taxă de administrare care este minimul dintre 10 RON
+    și 10% din sold la sfârșitul lunii. Există o dobândă de 7% plătită lunar. Nu este necesar un sold
+    minim.
+    • Cont verificare - Acest cont percepe o taxă de administrare care este minimul dintre 10 RON și
+    10% din sold la sfârșitul lunii. Există o dobândă anuală de 7% plătită lunar. Există o penalizare de
+    10 RON dacă soldul scade sub un minim de 100 RON . Există o taxă de 0,10 RON pentru fiecare
+    tranzacție.
+    • Cont CD - Acest cont percepe o taxă de administrare care este minimul dintre 10 RON și 10% din
+    sold la sfârșitul lunii. Există o dobândă de 15% plătită anual. Nu este necesar un sold minim, dar
+    dacă există o retragere înainte de trecerea a 12 luni, va exista o penalizare de 20% din soldul curent.
