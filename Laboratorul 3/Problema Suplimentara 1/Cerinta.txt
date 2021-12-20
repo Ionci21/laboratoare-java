@@ -1,0 +1,16 @@
+Creați o clasă abstractă X-Men care descrie personajele unui joc, având ca atribut vârsta și o metodă
+de afișare a punctelor care le deține personajul. Creați două tipuri concrete de personaje X-Men:
+Apocalipsa și Magneto. Un jucător poate adăuga la personajul de bază un set de puteri precum:
+teleportarea, telepatia, atletismul, aripile, etc. Fiecare putere adaugă la numărul de punte al
+personajului un anumit număr de puncte suplimentare.
+    a) Discutați despre următoarele posibilități de proiectare
+        a. Pentru fiecare combinație de X-Men și putere creați subclasă
+        b. Un X-Men conține un tablou de puteri, puterile sunt definite ca o enumerare
+        c. Creați o clasă abstractă Putere care extinde X_Man și conține un membru de tip X-Man din
+        care derivă clase de teleportare, telepatie, atlet, aripi, .... (indicație: decorator design pattern)
+    b) Implementați variantele propuse
+    c) Creați un tablou de personaje X
+    d) Pentru fiecare putere unică a unui personaj din tablou afișați numele personajului care are
+    această putere
+    e) Documentați proiectul
+    f) Adăugați teste unitare pentru clasele definite
